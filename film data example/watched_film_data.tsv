@@ -1,0 +1,456 @@
+IMDB Code	Date	Title	Seen	Source	Recommender	Rating	Simple Rating
+tt0121766	1/1/2021	Star Wars Ep 3	y	Disney +	NA	Great	10
+tt2278388	1/1/2021	Grand Budapest Hotel	y	Stream	NA	Great	10
+tt4698684	1/2/2021	Hunt for the Wilderpeople	n	Hulu	NA	Great	10
+tt0360486	1/2/2021	Constantine	n	Hulu	NA	Good	8
+tt6565702	1/3/2021	Dark Phoenix	n	HBO Max	NA	Okay	2
+tt1571249	1/4/2021	The Skeleton Twins	n	Hulu	NA	Decent	5
+tt0088333	1/7/2021	Up the Creek	n	Amazon Prime	NA	Good	8
+tt1279935	1/8/2021	Date Night (Extended Version)	n	Hulu	NA	Good	8
+tt0086998	1/9/2021	Breakin'	n	Stream	NA	Decent	5
+tt0086960	1/9/2021	Beverly Hills Cop	n	Stream	NA	Decent	5
+tt0086999	1/10/2021	Breakin' 2: Electric Boogaloo	n	Stream	NA	Okay	2
+tt3853830	1/11/2021	The Tiger Hunter	n	Netflix	NA	Good	8
+tt2962984	1/13/2021	Girlfriend's Day	n	Netflix	NA	Decent	5
+tt0489099	1/16/2021	Jumper	n	Stream	NA	Decent	5
+tt1509767	1/20/2021	The Three Musketeers	n	Hulu	NA	Okay	2
+tt1698648	1/21/2021	Girl Most Likely	n	Hulu	NA	Okay	2
+tt0209144	1/24/2021	Memento	n	Amazon Prime	NA	Decent	5
+tt0056663	1/24/2021	Vivre Sa Vie	n	HBO Max	NA	Good	8
+tt4054654	1/26/2021	Dog Eat Dog	n	Hulu	NA	Decent	5
+tt0113481	1/30/2021	Johnny Mnemonic	n	Hulu	NA	Decent	5
+tt5363618	1/31/2021	The Sound of Metal	n	Amazon Prime	NA	Good +	8.5
+tt2582802	1/31/2021	Whiplash	n	Stream	NA	Great	10
+tt0210299	2/2/2021	Songcatcher	n	Tubi	NA	Good	8
+tt0080549	2/3/2021	Coal Miner's Daughter	n	Stream	NA	Good	8
+tt0482571	2/5/2021	The Prestige	n	Amazon Prime	NA	Great	10
+tt4853102	2/7/2021	Batman: The Killing Joke	n	Netflix	NA	Good +	8.5
+tt6149154	2/14/2021	Waiting for Barbarians	n	Hulu	NA	Good	8
+tt6394270	2/15/2021	Bombshell	n	Hulu	NA	Good	8
+tt0348333	2/19/2021	Waiting...	n	Netflix	NA	Good	8
+tt2883512	2/20/2021	Chef	n	Netflix	NA	Good	8
+tt4916630	2/20/2021	Just Mercy	n	HBO Max	NA	Good	8
+tt3734354	2/24/2021	The Cleanse	n	Hulu	NA	Decent	5
+tt7302054	2/26/2021	Supervized	n	Hulu	NA	Good	8
+tt4126476	2/27/2021	After	n	Netflix	NA	Okay	2
+tt0084786	3/3/2021	They Call Me Bruce	n	Amazon Prime	NA	Okay +	2.5
+tt0240900	3/4/2021	Slackers	n	Amazon Prime	NA	Decent +	6
+tt0133093	3/5/2021	The Matrix	y	HBO Max	NA	Great	10
+tt2250912	3/9/2021	Spider-Man: Homecoming	y	Stream	NA	Great	10
+tt0829482	3/12/2021	Superbad	y	Netflix	NA	Great	10
+tt1622547	3/13/2021	30 Minutes or Less	n	Netflix	NA	Okay	2
+tt8647310	3/14/2021	Buffaloed	n	Hulu	NA	Good	8
+tt4102722	3/18/2021	The Night Watchmen	n	Hulu	NA	Decent	5
+tt0121765	3/19/2021	Star Wars Ep 2	y	Disney +	NA	Good	8
+tt0095705	3/21/2021	The Naked Gun	n	Netflix	NA	Good	8
+tt9893250	3/22/2021	I Care A Lot	n	Netflix	NA	Good +	8.5
+tt4686844	3/23/2021	The Death of Stalin	n	Netflix	NA	Great	10
+tt1918734	3/24/2021	2067	n	Hulu	NA	Decent	5
+tt0493405	3/25/2021	Chips	n	HBO Max	NA	Decent	5
+tt0110912	3/26/2021	Pulp FIction	n	HBO Max	NA	Great	10
+tt0373074	3/27/2021	Kung Fu Hustle	n	Netflix	NA	Good	8
+tt1862079	3/29/2021	Safety Not Guaranteed	n	Netflix	NA	Good +	8.5
+tt1243957	3/30/2021	The Tourist	n	Hulu	NA	Good	8
+tt0070034	3/31/2021	Enter the Dragon	n	Netflix	NA	Good +	8.5
+tt0367089	4/1/2021	The Squid and the Whale	n	Tubi	NA	Good +	8.5
+tt3316948	4/2/2021	American Ultra	n	Hulu	NA	Good	8
+tt1675434	4/3/2021	The Intouchables	n	Netflix	NA	Good	8
+tt0120741	4/6/2021	Mafia!	n	Hulu	NA	Okay	2
+tt7939766	4/7/2021	I'm Thinking of Ending Things	n	Netflix	NA	Good	8
+tt5710514	4/8/2021	I don't feel at home in this world anymore	n	Netflix	NA	Good	8
+tt0033467	4/11/2021	Citizen Kane	n	Netflix	NA	Good +	8.5
+tt10618286	4/11/2021	Mank	n	Netflix	NA	Good +	8.5
+tt0384793	4/12/2021	Accepted	n	Netflix	NA	Decent	5
+tt6511932	4/13/2021	The Beach Bum	n	Hulu	NA	Okay	2
+tt8461224	4/14/2021	The Tax Collector	n	Hulu	NA	Okay -	1.5
+tt4158096	4/15/2021	Free Fire	n	Netflix	NA	Decent	5
+tt0100802	4/16/2021	Total Recall	n	Netflix	NA	Good	8
+tt1077368	4/17/2021	Dark Shadows	n	HBO	NA	Good	8
+tt12888462	4/18/2021	My Octopus Teacher	n	Netflix	NA	Good +	8.5
+tt1531663	4/18/2021	Everything Must Go	n	Hulu	NA	Good	8
+tt10633456	4/19/2021	Minari	n	Stream	NA	Great	10
+tt9620292	4/20/2021	Promising Young Woman	n	Stream	NA	Good	8
+tt10272386	4/21/2021	The Father	n	Stream	NA	Good +	8.5
+tt9770150	4/22/2021	Nomadland	n	Hulu	NA	Good	8
+tt1070874	4/23/2021	The Trial of the Chicago 7	n	Netflix	NA	Great	10
+tt10514222	4/23/2021	Ma Rainy's Black Bottom	n	Netflix	NA	Good	8
+tt9784798	4/24/2021	Judas and the Black Messiah	n	Stream	NA	Good+	8.5
+tt8521718	4/24/2021	The United States vs. Billie Holiday	n	Hulu	NA	Good	8
+tt11161474	4/25/2021	Pieces of a Woman	n	Netflix	NA	Good	8
+tt10288566	4/25/2021	Another Round	n	Hulu	NA	Good+	8.5
+tt6193408	4/26/2021	A Shaun the Sheep Movie: Farmageddon	n	Netflix	NA	Good+	8.5
+tt10612922	4/27/2021	One Night in Miami	n	Amazon Prime	NA	Great	10
+tt9586294	4/28/2021	Better Days	n	Hulu	NA	Good +	8.5
+tt10360862	4/29/2021	The Man Who Sold His Skin	n	Netflix	NA	Good +	8.5
+tt2948372	4/30/2021	Soul	n	Disney +	NA	Good	8
+tt7146812	5/1/2021	Onward	n	Disney +	NA	Good +	8.5
+tt10706602	5/2/2021	Colectiv	n	Netflix	NA	Good	8
+tt8633462	5/2/2021	"Quo Veras, Aida"	n	Netflix	NA	Good +	8.5
+tt6772802	5/3/2021	Hillbilly Elegy	n	Netflix	NA	Decent +	6
+tt6571548	5/4/2021	The White Tiger	n	Netflix	NA	Good	8
+tt0121766	5/4/2021	Star Wars Ep 3	y	Disney +	NA	Great	10
+tt7761590	5/5/2021	Retablo	n	Netflix	NA	Decent +	6
+tt7946422	5/6/2021	Prospect	n	Netflix	NA	Good -	7.5
+tt0362227	5/7/2021	Terminal	n	Hulu	NA	Good	8
+tt6723592	5/8/2021	Tenet	n	HBO Max	NA	Great	10
+tt0120812	5/9/2021	Rush Hour	n	HBO Max	NA	Good -	7.5
+tt0128853	5/10/2021	You've Got Mail	n	Hulu	NA	Good -	7.5
+tt1034314	5/11/2021	Iron Sky	n	Netflix	NA	Good +	8.5
+tt3038708	5/12/2021	Iron Sky: The Coming Race	n	Netflix	NA	Decent	5
+tt1727776	5/13/2021	Scouts Guide to the Zombie Apocalypse	n	Tubi	NA	Good -	7.5
+tt0362270	5/14/2021	Life Aquatic	n	Stream	NA	Good +	8.5
+tt1074638	5/15/2021	Skyfall	n	Hulu	NA	Good +	8.5
+tt4276820	5/16/2021	The Founder	n	Netflix	NA	Good +	8.5
+tt5539052	5/16/2021	The Polka King	n	Netflix	NA	Good +	8.5
+tt3797512	5/17/2021	Barb and Star Go to Vista del Mar	n	Stream	NA	Good +	8.5
+tt12441478	5/18/2021	Earwig and the Witch	n	HBO Max	NA	Good +	8.5
+tt4925292	5/19/2021	Lady Bird	n	Netflix	NA	Great	10
+tt7149336	5/20/2021	The Unicorn	n	Hulu	NA	Decent +	6
+tt13472984	5/21/2021	Two Distant Strangers	n	Netflix	NA	Good	8
+tt0993840	5/22/2021	Army of the Dead	n	Netflix	NA	Good +	8.5
+tt6386748	5/23/2021	Birds of Passage	n	Netflix	NA	Good	8
+tt0293429	5/23/2021	Mortal Kombat	n	HBO Max	NA	Decent +	6
+tt0420223	5/24/2021	Stranger than Fiction	n	Netflix	NA	Good	8
+tt8784956	5/25/2021	Ava	n	Netflix	NA	Decent	5
+tt10620868	5/26/2021	#Alive	n	Netflix	NA	Good	8
+tt2132285	5/27/2021	The Bling Ring	n	Netflix	NA	Good	8
+tt8695030	5/28/2021	The Dead Don't Die	n	HBO Max	NA	great	10
+tt1320253	5/29/2021	The Expendables	n	Hulu	NA	Good	8
+tt0105236	5/30/2021	resevoir dogs	n	Amazon Prime	NA	good	8
+tt0093773	5/31/2021	predator	n	Hulu	NA	Good	8
+tt7394816	6/1/2021	Primal	n	Hulu	NA	Decent	5
+tt1374989	6/2/2021	Pride and Prejudice and Zombies	n	Amazon Prime	NA	Decent	5
+tt1298644	6/3/2021	The Hustle	n	Hulu	NA	Decent	5
+tt1853728	6/4/2021	Django Unchained	n	Netflix	NA	Great	10
+tt0082971	6/5/2021	Indiana Jones: Raiders of the Lost Ark	y	Regal Theater	NA	Good	8
+tt7873348	6/5/2021	Save Yourselves	n	Hulu	NA	Great	10
+tt11327514	6/6/2021	Uncle Frank	n	Amazon Prime	NA	Good +	8.5
+tt8969332	6/7/2021	The Biggest Little Farm	n	Hulu	NA	Good	8
+tt10214496	6/8/2021	The Donut King	n	Hulu	NA	Good	8
+tt13080188	6/9/2021	Naughty Books	n	Hulu	NA	Good	8
+tt9613244	6/10/2021	Autonomy	n	Hulu	NA	Decent	5
+tt0111257	6/11/2021	Speed	n	HBO Max	NA	Good +	8.5
+tt6963760	6/12/2021	"If You're Not In the Obit, Eat Breakfast"	n	HBO Max	NA	Good	8
+tt3810760	6/13/2021	Minimalism	n	Netflix	NA	Decent	5
+tt7504726	6/14/2021	The Call of the Wild	n	HBO Max	NA	Decent	5
+tt0067116	6/15/2021	The French Connection	n	Amazon Prime	NA	Good +	8.5
+tt2322441	6/16/2021	50 Shades of Grey	n	TBS	NA	Okay -	1.5
+tt0119571	6/17/2021	The Love Bug	n	Disney +	NA	Good	8
+tt1677720	6/18/2021	Ready Player One	n	HBO Max	NA	Great	10
+tt2262227	6/19/2021	Book of Life	n	Disney +	NA	Decent	5
+tt0065488	6/20/2021	The Boys in the Band	n	Stream	NA	Good	8
+tt1321510	6/21/2021	In The Heights	n	Regal Theater	NA	Good	8
+tt8385148	6/22/2021	The Hitman's Wife's Bodyguard	n	Regal Theater	NA	Good	8
+tt0388795	6/23/2021	Brokeback Mountain	n	Person's Movie	NA	Good	8
+tt3228774	6/24/2021	Cruella	n	Regal Theater	NA	Good -	7.5
+tt0942385	6/25/2021	Tropic Thunder	n	Amazon Prime	NA	Good -	7.5
+tt0078748	6/26/2021	Alien	n	Amazon Prime	NA	Good	8
+tt13143964	6/27/2021	Borat 2	n	Amazon Prime	NA	Okay	2
+tt0086960	6/28/2021	Beverly Hills Cop 2	n	HBO Max	NA	Decent	5
+tt0100403	6/29/2021	Predator 2	n	Hulu	NA	Not good	0
+tt0266915	6/30/2021	Rush Hour 2	n	HBO Max	NA	Okay -	1.5
+tt1764651	7/1/2021	Expendables 2	n	Hulu	NA	Decent	5
+tt10199914	7/2/2021	Boys in the Band	n	Netflix	NA	Decent +	6
+tt0232500	7/3/2021	Fast and Furious	n	Hulu	NA	Good	8
+tt0322259	7/4/2021	2 Fast 2 Furious	n	Hulu	NA	Good	8
+tt0463985	7/4/2021	Fast and Furious 3: Tokyo Drift	n	Peacock	NA	Okay	2
+tt14544192	7/5/2021	Inside	n	Netflix	NA	Great	10
+tt11738792	7/6/2021	Taylor Tomlinson: Quarter-Life Crisis	n	Netflix	NA	Decent	5
+tt6878486	7/7/2021	Norm	n	Netflix	NA	Decent	5
+tt2546038	7/8/2021	Maria Bamford: the special special special!	n	Netflix	NA	Decent +	6
+tt3480822	7/9/2021	Black Widow	n	Regal Theater	NA	Good +	8.5
+tt0175142	7/10/2021	Scary Movie	n	Pluto	NA	Good	8
+tt7929156	7/11/2021	Chris Claremont	n	Amazon Prime	NA	Good	8
+tt1655460	7/12/2021	Wanderlust	n	HBO Max	NA	Good	8
+tt0085995	7/13/2021	National Lampoon	n	HBO Max	NA	Okay	2
+tt8143990	7/14/2021	Kajillionaire	n	HBO Max	NA	Great	10
+tt1524930	7/15/2021	Vacation	n	HBO Max	NA	Decent 	5
+tt0033563	7/16/2021	Dumbo	n	Disney +	NA	Good	8
+tt2702920	7/17/2021	Secret Garden	n	Hulu	NA	Decent	5
+tt7069210	7/18/2021	Conjuring	n	Hull's Drive-in	NA	Okay	2
+tt11644096	7/19/2021	What Did Jack Do	n	Netflix	NA	Good	8
+tt10516390	7/20/2021	"Frankenstein's Monster's Monster, Frankenstein"	n	Netflix	NA	Good	8
+tt0043274	7/21/2021	Alice in Wonderland	n	Netflix	NA	Decent	5
+tt10516984	7/22/2021	Anima	n	Netflix	NA	Decent +	6
+tt11768948	7/23/2021	"If Anything Happens, I Love You"	n	Netflix	NA	Great	10
+tt5912454	7/24/2021	Blue Jay	n	Netflix	NA	Okay	2
+tt13322484	7/25/2021	Cops and Robbers	n	Netflix	NA	Decent	5
+tt0081494	7/26/2021	Return to the 36th Chamber	n	Netflix	NA	Decent	5
+tt0354234	7/27/2021	The Young Vagabond	n	Netflix	NA	Decent	5
+tt0091607	7/28/2021	Martial Arts of Shaolin	n	Netflix	NA	Decent	5
+tt0087623	7/29/2021	Opium and the Kung Fu Master	n	Netflix	NA	Decent	5
+tt1131734	7/30/2021	Jenifer's Body	n	Hulu	NA	Okay -	1.5
+tt6939026	7/31/2021	Period. End of Sentence	n	Netflix	NA	Decent	5
+tt0273858	8/1/2021	The Mystery of Chaco Canyon	n	Amazon Prime	NA	Not Good	0
+tt7638348	8/2/2021	Boss Level	n	Hulu	NA	Good	8
+tt11080108	8/3/2021	Little Map of Perfect Things	n	Amazon Prime	NA	Decent	5
+tt5640450	8/4/2021	ARQ	n	Netflix	NA	Good -	7.5
+tt0480669	8/5/2021	Timecrimes	n	Tubi	NA	Good	8
+tt6334354	8/6/2021	The Suicide Squad	n	Regal Theater	NA	Good	8
+tt6417144	8/7/2021	The Mothman of Point Pleasant	n	Amazon Prime	NA	Decent +	6
+tt10287376	8/8/2021	VHYes	n	Hulu	NA	Decent +	6
+tt4270516	8/9/2021	grandma	n	Hulu	NA	Good	8
+tt7736968	8/10/2021	5 Years Apart	n	Hulu	NA	Decent	5
+tt0086203	8/11/2021	Rock and Rule	n	Youtube	NA	Good	8
+tt2781516	8/12/2021	Wolf Cop	n	Hulu	NA	Decent +	6
+tt6264654	8/13/2021	Free Guy	n	Regal Theater	NA	Great	10
+tt1261900	8/14/2021	HP Lovecraft	n	Amazon Prime	NA	Decent	5
+tt13648220	8/15/2021	Misha and the Wolves	n	Amazon Prime	NA	Good -	7.5
+tt0033870	8/16/2021	The Maltese Falcon	n	Netflix	NA	Good	8
+tt0159382	8/17/2021	The Croupier	n	Netflix	NA	Good	8
+tt1764234	8/18/2021	killing them softly	n	Netflix	NA	Good +	8.5
+tt4550098	8/19/2021	Nocturnal Animals	n	Netflix	NA	Decent +	6
+tt0870154	8/20/2021	The Jungle Cruise	n	Regal Theater	NA	Good	8
+tt0121765	8/20/2021	Star Wars Ep 2	y	Disney +	NA	Good	8
+tt1570460	8/21/2021	Capturing the Light: The Dorothy Izatt Phenomenon	n	Amazon Prime	NA	Okay	2
+tt0380601	8/22/2021	One Last Shot	n	Netflix	NA	Good	8
+tt0089374	8/23/2021	Police Story	n	HBO Max	NA	Decent	5
+tt0290095	8/24/2021	The Tuxedo	n	Hulu	NA	Okay	2
+tt0271946	8/25/2021	The Accidental Spy	n	Hulu	NA	Decent	5
+tt0865556	8/26/2021	The Forbidden Kingdom	n	Hulu	NA	Okay-	1.5
+tt3272066	8/27/2021	Reminiscence	n	Regal Theater	NA	Decent	5
+tt13865926	8/28/2021	About a Girl	n	HBO Max	NA	Good	8
+tt6848624	8/29/2021	The Neverending Man: Hayao Miyazaki	n	HBO Max	NA	Good	8
+tt0079833	8/30/2021	The Castle of Cagliostro	n	Netflix	NA	Great	10
+tt0087544	8/31/2021	Nausicaä of the Valley of the Wind	n	HBO Max	NA	Great	10
+tt3783958	9/1/2021	La La Land	y	Amazon Prime	NA	Good +	8.5
+tt0092067	9/1/2021	Castle in the Sky	n	HBO Max	NA	Good	8
+tt0104652	9/2/2021	Porco Rosso	n	HBO Max	NA	Great	10
+tt9376612	9/3/2021	Shang-Chi and the Legend of the Ten Rings	n	Regal Theater	NA	Good +	8.5
+tt0372784	9/3/2021	Batman Begins	n	HBO Max	NA	Good	8
+tt0468569	9/4/2021	The Dark Knight	n	HBO Max	NA	Good	8
+tt1345836	9/5/2021	The Dark Knight Rises	y	HBO Max	NA	Decent	5
+tt9711282	9/5/2021	Canvas	n	Netflix	NA	Decent	5
+tt7167630	9/6/2021	Batman: Gotham by Gaslight	n	HBO Max	NA	Good +	8.5
+tt1117563	9/7/2021	Batman: Gotham Knight	n	HBO Max	NA	Good +	8.5
+tt0472219	9/8/2021	Batman vs Dracula	n	HBO Max	NA	Good	8
+tt1569923	9/9/2021	Batman: Under the Red Hood	n	HBO Max	NA	Decent +	6
+tt6002094	9/10/2021	Her Name Was Jo	n	Bowtie Theater	NA	Good	8
+tt2828394	9/11/2021	The Norse: An Arctic Mystery	n	Amazon Prime	NA	Good	8
+tt0244000	9/12/2021	American Outlaws	n	Netflix	NA	Decent -	4
+tt0052877	9/13/2021	The Hangman	n	Hulu	NA	Good	8
+tt0046198	9/14/2021	Pony Express	n	Hulu	NA	Good	8
+tt0057163	9/15/2021	Hud	n	Hulu	NA	Good	8
+tt0067411	9/16/2021	McCabe and Mrs. Miller	n	HBO Max	NA	Okay	2
+tt0120201	9/17/2021	Starship Troopers	n	Starz	NA	Good +	8.5
+tt10919250	9/18/2021	Coffe Shop Names	n	HBO Max	NA	Good +	8.5
+tt1599348	9/19/2021	Safe House	n	Netflix	NA	Good	8
+tt7737528	9/20/2021	Kate	n	Netflix	NA	Good	8
+tt10404944	9/21/2021	Bac Nord	n	Netflix	NA	Good +	8.5
+tt2720826	9/22/2021	Birth of the Dragon	n	Netflix	NA	Decent -	4
+tt10521144	9/23/2021	Nightbooks	n	Netflix	NA	Decent	5
+tt3799694	9/24/2021	The Nice Guys	n	Hulu	NA	Good +	8.5
+tt1343727	9/25/2021	Dredd	n	Hulu	NA	Good	8
+tt9914598	9/26/2021	Cannabis Evolution	n	Hulu	NA	Not Good	0
+tt2381941	9/27/2021	Focus	n	Peacock	NA	Okay +	2.5
+tt0478087	9/28/2021	21	n	Hulu	NA	Good	8
+tt2024432	9/29/2021	Identity Thief	n	Hulu	NA	Decent -	4
+tt1045772	9/30/2021	I Love You Phillip Morris	n	Hulu	NA	Good -	7.5
+tt2591814	10/1/2021	The Garden of Words	n	Netflix	NA	Good	8
+tt9484998	10/2/2021	Palm Springs	y	Hulu	NA	Decent +	6
+tt10559834	10/2/2021	Lonely Blue Night	n	HBO Max	NA	Good +	8.5
+tt0247380	10/3/2021	The Gleaners and I	n	Kanopy	NA	Good	8
+tt0053198	10/4/2021	The 400 Blows	n	HBO Max	NA	Great	10
+tt0054389	10/5/2021	Shoot the Piano Player	n	HBO Max	NA	Good +	8.5
+tt0051418	10/6/2021	The Blob	n	HBO Max	NA	Decent +	6
+tt0055032	10/7/2021	Jules and Jim	n	HBO Max	NA	Decent	5
+tt9161434	10/8/2021	The Hug	n	Hulu	NA	Good	8
+tt11052364	10/9/2021	Swiped to Death	n	Hulu	NA	Decent	5
+tt11060960	10/9/2021	Ride	n	Hulu	NA	Okay	2
+tt11153736	10/10/2021	Slasher	n	Hulu	NA	Okay +	2.5
+tt5962210	10/11/2021	Ingrid Goes West	n	Hulu	NA	Good +	8.5
+tt0120032	10/12/2021	Romy and Michele's High School Reunion	n	Hulu	NA	Good	8
+tt0097257	10/13/2021	Earth Girls are Easy	n	Youtube	NA	Good	8
+tt11127056	10/14/2021	Fire in Paradise	n	Netflix	NA	Great	10
+tt2382320	10/15/2021	No Time to Die	n	Regal Theater	NA	Good +	8.5
+tt7924820	10/16/2021	The Trader	n	Netflix	NA	Okay	2
+tt0082694	10/17/2021	Mad Max 2	n	HBO Max	NA	Decent	5
+tt0089822	10/18/2021	Police Academy 2	n	HBO Max	NA	Decent	5
+tt7097896	10/19/2021	Venom: Let There Be Carnage	n	Regal Theater	NA	Good +	8.5
+tt0087363	10/20/2021	Gremlins	n	HBO Max	NA	Good	8
+tt0093091	10/21/2021	Ghoulies 2	n	Youtube	NA	Okay	2
+tt1160419	10/22/2021	Dune	n	Regal Theater	NA	Great	10
+tt10334438	10/23/2021	Becoming Cousteau	n	Regal Theater	NA	Good +	8.5
+tt2375574	10/24/2021	A Field in England	n	Hulu	NA	Okay +	2.5
+tt1976009	10/25/2021	Victor Frankenstein	n	Hulu	NA	Decent	5
+tt0089907	10/26/2021	The Return of the Living Dead	n	HBO Max	NA	Decent	5
+tt3416742	10/27/2021	What We Do In The Shadows	y	fx	NA	Good +	8.5
+tt0023238	10/27/2021	The Most Dangerous Game	n	HBO Max	NA	Okay	2
+tt0083907	10/28/2021	The Evil Dead	n	HBO Max	NA	Good	8
+tt9639470	10/29/2021	Last Night in Soho	n	Regal Theater	NA	Good +	8.5
+tt10919380	10/30/2021	Freaky	n	HBO Max	NA	Good	8
+tt0087800	10/31/2021	Nightmare on Elm Street	n	HBO Max	NA	Good	8
+tt0060550	10/31/2021	It's The Great Pumpkin Charlie Brown	y	Stream	NA	Great	10
+tt11388406	11/1/2021	Horse Girl	n	Netflix	NA	Great	10
+tt1065073	11/2/2021	Boyhood	n	Stream	NA	Good +	8.5
+tt4846232	11/3/2021	Good Time	n	Netflix	NA	Good	8
+tt1560747	11/4/2021	The Master	n	Netflix	NA	Good -	7.5
+tt8847712	11/5/2021	The French Dispatch	n	Regal Theater	NA	Good +	8.5
+tt0243155	11/6/2021	Bridget Jones's Diary	n	Pluto TV	NA	Decent	5
+tt11358166	11/7/2021	Some Kind of Heaven	n	Hulu	NA	Decent	5
+tt8847712	11/7/2021	The French Dispatch	y	Regal Theater	NA	Good +	8.5
+tt2402157	11/8/2021	The November Man	n	Netflix	NA	Okay +	2.5
+tt2582784	11/9/2021	Flower	n	Hulu	NA	Decent +	6
+tt7014006	11/10/2021	Eigth Grade	n	Showtime	NA	Good +	8.5
+tt7451284	11/11/2021	Batman Ninja	n	HBO Max	NA	Good	8
+tt9032400	11/12/2021	Eternals	n	Regal Theater	NA	Okay	2
+tt11865728	11/13/2021	At Last	n	HBO Max	NA	Good	8
+tt0070379	11/14/2021	Mean Streets	n	HBO Max	NA	Good	8
+tt0081398	11/15/2021	Raging Bull	n	Showtime	NA	Good +	8.5
+tt0085794	11/16/2021	The King of Comedy	n	Pluto TV	NA	Good +	8.5
+tt0068309	11/17/2021	Boxcar Bertha	n	HBO Max	NA	Good -	7.5
+tt4925292	11/17/2021	Lady Bird	y	Netflix	NA	Decent +	6
+tt0071115	11/18/2021	Alice Doesn't Live Here Anymore	n	HBO Max	NA	Good	8
+tt0099685	11/19/2021	Goodfellas	n	HBO Max	NA	Great	10
+tt1197628	11/20/2021	Observe and Report	n	Netflix	NA	Good	8
+tt6764122	11/21/2021	Ramen Heads	n	Hulu	NA	Good +	8.5
+tt0085244	11/22/2021	The Big Chill	n	Pluto TV	NA	Decent	5
+tt9214766	11/23/2021	The Box	n	Hulu	NA	Okay	2
+tt0106220	11/23/2021	Addams Family Values	n	Netflix	NA	Good	8
+tt2097333	11/24/2021	A.C.O.R.N.S: Operation Crack Down	n	Hulu	NA	Not Good	0
+tt2872750	11/25/2021	Shaun the Sheep Movie	n	Hulu	NA	Good	8
+tt4266638	11/26/2021	Krisha	n	Amazon Prime	NA	Okay +	2.5
+tt7681824	11/27/2021	We The Animals	n	Stream	NA	Decent +	6
+tt0273923	11/28/2021	Orange County	n	Netflix	NA	Good	8
+tt0074486	11/29/2021	Eraserhead	n	HBO Max	NA	Great	10
+tt0145487	11/30/2021	Spider-Man	y	FX	NA	Good	8
+tt0080678	11/30/2021	The Elephant Man	n	Pluto TV	NA	Good +	8.5
+tt0090756	12/1/2021	Blue Velvet	n	Starz	NA	Good +	8.5
+tt0166924	12/2/2021	Mulholland Dr.	n	Stream	NA	Good +	8.5
+tt0491152	12/3/2021	Something Borrowed	n	Netflix	NA	Okay +	2.5
+tt11100856	12/4/2021	"Love, Guaranteed"	n	Netflix	NA	Okay	2
+tt3282712	12/5/2021	Best Worst Thing That Could Have Ever Happened	n	Netflix	NA	Decent +	6
+tt0068361	12/6/2021	Le Charme Discret De La Bouge Bourgeoisie	n	Amazon Prime	NA	Good	8
+tt0120601	12/7/2021	Being John Malkovich	n	Peacock	NA	Good +	8.5
+tt0107048	12/8/2021	Groundhog Day	n	Hulu	NA	Decent	5
+tt0478304	12/9/2021	The Tree of Life	n	Stream	NA	Okay	2
+tt5666304	12/10/2021	The Little Hours	n	Hulu	NA	Good	8
+tt0117802	12/11/2021	Swingers	n	HBO Max	NA	Good +	8.5
+tt8923482	12/12/2021	One Child Nation	n	Amazon Prime	NA	Okay +	2.5
+tt6598626	12/13/2021	Take Me	n	Netflix	NA	Good	8
+tt7422822	12/14/2021	Greener Grass	n	Netflix	NA	Great	10
+tt7248248	12/15/2021	Lucky Day	n	Hulu	NA	Decent	5
+tt8976576	12/16/2021	Vampires vs. The Bronx	n	Netflix	NA	Good +	8.5
+tt3972110	12/17/2021	The Assault	n	Hulu	NA	Okay	2
+tt12528166	12/18/2021	Out of Death	n	Hulu	NA	Okay	2
+tt10872600	12/19/2021	Spider-Man: No Way Home	n	Regal Theater	NA	Great +	10
+tt0488658	12/20/2021	Unaccompanied Minors	n	Netflix	NA	Good	8
+tt0116705	12/21/2021	Jingle All the Way	n	Hulu	NA	Good -	7.5
+tt2709692	12/22/2021	Dr. Seuss' the Grinch	n	FX	NA	Good +	8.5
+tt4976192	12/23/2021	211	n	Hulu	NA	Decent	5
+tt7286966	12/24/2021	Money Plane	n	Hulu	NA	Okay	2
+tt1731767	12/25/2021	Scooby-Doo! Camp Scare	n	HBO Max	NA	Good	8
+tt3014078	12/26/2021	Shagri-la Suite	n	Hulu	NA	Good	8
+tt10838180	12/27/2021	The Matrix: Resurrections	n	HBO Max	NA	Good	8
+tt2953050	12/28/2021	Encanto	n	Disney +	NA	Good +	8.5
+tt0457939	12/29/2021	The Holiday	n	Hulu	NA	Good	8
+tt0253867	12/30/2021	The Sweetest Thing	n	Netflix	NA	Okay	2
+tt1041829	12/31/2021	The Proposal	n	Amazon Prime	NA	Decent +	6
+tt1800246	1/1/2022	That Awkward Moment	n	Amazon Prime	NA	Good	8
+tt0066921	1/2/2022	A Clockwork Orange	n	HBO Max	NA	Great	10
+tt1083456	1/3/2022	Fired Up!	n	HBO Max	NA	Okay	2
+tt0353969	1/4/2022	Memories of Murder	n	Hulu	NA	Great	10
+tt0119223	1/5/2022	Great Expectations	n	Starz	NA	Okay	2
+tt1092026	1/6/2022	Paul	n	Starz	NA	Good	8
+tt0090605	1/7/2022	Aliens	n	Showtime	NA	Good +	8.5
+tt8231668	1/8/2022	Good On Paper	n	Netflix	NA	Decent	5
+tt0089208	1/9/2022	Girls Just Want To Have Fun	n	Pluto TV	NA	Good -	7.5
+tt0092272	1/10/2022	Youngblood	n	Stream	NA	Good -	7.5
+tt0088794	1/11/2022	Better Off Dead	n	Stream	NA	Good	8
+tt0117119	1/11/2022	My Fellow Americans	n	Stream	NA	Good	8
+tt0112740	1/12/2022	Crimson Tide	n	Stream	NA	Good	8
+tt0087985	1/13/2022	Red Dawn	n	HBO Max	NA	Good	8
+tt0088247	1/14/2022	The Terminator	n	Amazon Prime	NA	Good +	8.5
+tt0055852	1/15/2022	Cleo from 5 to 7	n	HBO Max	NA	Good +	8.5
+tt0092513	1/16/2022	Adventures in Babysitting	n	Disney +	NA	Good	8
+tt0477991	1/17/2022	Kinetta	n	Kanopy	NA	Good -	7.5
+tt5715874	1/18/2022	The Killing of a Sacred Deer	n	Showtime	NA	Great	10
+tt1379182	1/19/2022	Dogtooth	n	Kanopy	NA	Good +	8.5
+tt1859446	1/20/2022	Alps	n	Kanopy	NA	Good +	8.5
+tt6518270	1/21/2022	An Evening with Beverly Luff Lin	n	Netflix	NA	Decent +	6
+tt0129280	1/22/2022	Out Of Towners	n	HBO Max	NA	Okay +	2.5
+tt11003218	1/23/2022	Pig	n	Hulu	NA	Good +	8.5
+tt4562728	1/24/2022	Dreamland	n	Tubi	NA	Good	8
+tt2044729	1/25/2022	A Glimpse into the Mind of Charles Swan III	n	Showtime	NA	Good	8
+tt0159097	1/26/2022	The Virgin Suicides	n	Stream	NA	Great	10
+tt2479800	1/27/2022	Palo Alto	n	Amazon Prime	NA	Good	8
+tt0115678	1/28/2022	Big Night	n	Pluto TV	NA	Good +	8.5
+tt1234548	1/29/2022	The Men Who Stare at Goats	n	Netflix	NA	Decent	5
+tt0180093	1/30/2022	Requim for a Dream	n	Pluto TV	NA	Good +	8.5
+tt4400994	1/31/2022	The Ballad of Lefty Brown	n	Netflix	NA	Good +	8.5
+tt0120804	2/1/2022	Resident Evil	n	Hulu	NA	Good	8
+tt2140203	2/2/2022	Wolf Children	n	Stream	NA	Good +	8.5
+tt0346156	2/3/2022	Sky Captain and the World of Tomorrow	n	Hulu	NA	Decent +	6
+tt11286314	2/4/2022	Don't Look Up	n	Netflix	NA	Good +	8.5
+tt6857988	2/5/2022	I Am Not An Easy Man	n	Netflix	NA	Decent	5
+tt11703050	2/6/2022	The House	n	Netflix	NA	Good +	8.5
+tt0068650	2/7/2022	Hanzo the Razer: Sword of Justice	n	HBO Max	NA	Decent +	6
+tt10293406	2/8/2022	The Power of the Dog	n	Netflix	NA	Great	10
+tt5311514	2/9/2022	Your Name.	n	Stream	NA	Great	10
+tt10441822	2/10/2022	The Nowhere Inn	n	Hulu	NA	Great	10
+tt7657566	2/11/2022	Death on the Nile	n	Regal	NA	Decent +	6
+tt0347618	2/12/2022	The Cat Returns	n	HBO Max	NA	Good	8
+tt0084649	2/13/2022	The Secret of NIHM	n	Pluto TV	NA	Good	8
+tt0049406	2/14/2022	The Killing	n	Pluto TV	NA	Decent	5
+tt0947798	2/15/2022	Black Swan	n	Hulu	NA	Great	10
+tt9193612	2/16/2022	Ride Your Wave	n	HBO Max	NA	Good +	8.5
+tt0208092	2/17/2022	Snatch	n	Netflix	NA	Good +	8.5
+tt1116186	2/18/2022	Still Waiting...	n	HBO Max	NA	Decent	5
+tt11372428	2/19/2022	Closed for Storm	n	Amazon Prime	NA	Good +	8.5
+tt0072962	2/20/2022	F for Fake	n	HBO Max	NA	Good +	8.5
+tt0816556	2/21/2022	Lake Mungo	n	Tubi	NA	Good	8
+tt1331064	2/22/2022	Paper Heart	n	Amazon Prime	NA	Good	8
+tt12735338	2/23/2022	Words Bubble Up Like Soda Pop	n	Netflix	NA	Good	8
+tt3727120	2/24/2022	The History of Time Travel	n	Amazon Prime	NA	Great	10
+tt0080339	2/25/2022	Airplane!	n	Stream	NA	Good	8
+tt11162992	2/26/2022	"Lorena, Light-Footed Woman"	n	Netflix	NA	Good +	8.5
+tt0095662	2/27/2022	Moving	n	Stream	NA	Decent +	6
+tt0273799	2/28/2022	Max Keeble's Big Move	n	Disney +	NA	Decent	5
+tt4831420	3/1/2022	Sharknado 4	n	Amazon Prime	NA	Decent -	4
+tt1371155	3/2/2022	Made in Dagenham	n	Starz	NA	Good	8
+tt0139414	3/3/2022	Lake Placid	n	Tubi	NA	Decent	5
+tt7740496	3/4/2022	Nightmare Alley	n	Hulu	NA	Good	8
+tt2556936	3/5/2022	No Men Beyond This Point	n	Amazon Prime	NA	Good	8
+tt0107977	3/6/2022	Robin Hood: Men in Tights	n	Hulu	NA	Good -	7.5
+tt4226388	3/7/2022	Victoria	n	Showtime	NA	Good -	7.5
+tt0093105	3/8/2022	Good Morning Vietnam	n	Amazon Prime	NA	Great	10
+tt1877830	3/9/2022	The Batman	n	Regal	NA	Good +	8.5
+tt6320628	3/9/2022	Spiderman: Far From Home	y	Stream	NA	Good +	8.5
+tt10307856	3/10/2022	The Argument	n	Starz	NA	Decent +	6
+tt0283111	3/11/2022	Van Wilder	n	Tubi	NA	Good	8
+tt0088128	3/12/2022	16 Candles	n	Stream	NA	Good	8
+tt0078346	3/13/2022	Superman	n	HBO Max	NA	Great	10
+tt0042876	3/14/2022	Rashomon	n	HBO Max	NA	Great	10
+tt0029808	3/15/2022	You Only Live Once	n	Amazon Prime	NA	Great	10
+tt0318462	3/16/2022	Motorcycle Diaries	n	Stream	NA	Good +	8.5
+tt8430054	3/17/2022	Flee	n	Hulu	NA	Great	10
+tt0117705	3/18/2022	Space Jam	n	HBO Max	NA	Good +	8.5
+tt3554046	3/18/2022	Space Jam: A New Legacy	n	HBO Max	NA	Okay -	1.5
+tt5109280	3/19/2022	Raya and the Last Dragon	n	Disney +	NA	Good	8
+tt4995540	3/20/2022	Being the Ricardos	n	Amazon Prime	NA	Good	8
+tt11271038	3/21/2022	Licorice Pizza	n	Regal	NA	Great -	9.5
+tt9115530	3/22/2022	The Eyes of Tammy Faye	n	HBO Max	NA	Good	8
+tt12789558	3/22/2022	Belfast	n	Regal	NA	Good +	8.5
+tt0088846	3/23/2022	Brazil	n	Stream	NA	Good +	8.5
+tt3581652	3/24/2022	West Side Story	n	HBO Max	NA	Decent +	6
+tt14039582	3/25/2022	Drive My Car	n	HBO Max	NA	Great	10
+tt10366460	3/26/2022	CODA	n	Apple TV	NA	Great	10
+tt9620288	3/27/2022	King Richard	n	HBO Max	NA	Good +	8.5
+tt9100054	3/27/2022	The Lost Daughter	n	Netflix	NA	Good	8
+tt0172493	3/28/2022	"Girl, Interrupted"	n	Netflix	NA	Great	10
+tt2788716	3/29/2022	Welcome to Me	n	Amazon Prime	NA	Good +	8.5
+tt4034354	3/30/2022	Swiss Army Man	n	Showtime	NA	Great	10
+tt0067185	3/31/2022	Harold and Maude	n	Showtime	NA	Good	8
+tt0075148	3/1/2022	Rocky	n	HBO Max	NA	Good +	8.5
+NA	4/2/2022	The Secret Life of the Cruise	n	Amazon Prime	NA	Decent	5
+tt0190590	4/3/2022	"O Brother, Where Art Thou"	n	Amazon Prime	NA	Decent	5
+tt0116282	4/4/2022	Fargo	n	Amazon Prime	NA	Good	8
+tt0407887	4/5/2022	The Departed	n	HBO Max	NA	Good +	8.5
+tt0449059	4/6/2022	Little Miss Sunshine	n	Stream	NA	Good +	8.5
+tt5186714	4/7/2022	The Salesman	n	Amazon Prime	NA	Good +	8.5
+tt1856101	4/8/2022	Blade Runner 2049	n	Netflix	NA	Good +	8.5
+tt10003978	4/9/2022	Fiddler: A Miracle of Miracles	n	Amazon Prime	NA	Great	10
+tt0034583	4/10/2022	Casablanca	n	HBO Max	NA	Good +	8.5
+tt0051808	4/11/2022	The Hidden Fortress	n	HBO Max	NA	Great	10
+tt0404030	4/13/2022	Everything is Illuminated	n	Stream	NA	Good	8
+tt5108870	4/15/2022	Morbius	n	Regal	NA	Decent	5
